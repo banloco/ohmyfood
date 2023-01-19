@@ -1,3 +1,7 @@
 h1{
-color: rgb(255, 000, 255);
+   color: rgb(255, 000, 255);
+}
+
+input{
+   float: right;
 }
